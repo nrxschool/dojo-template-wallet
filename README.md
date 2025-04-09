@@ -26,6 +26,14 @@
 - Adicionar suporte para assinatura de mensagens e transações offline.
 
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
